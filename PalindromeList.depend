@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639030309 source:d:\kuliah\undip\materi kuliah\semester 3\9. struktur data a\palindromelist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
